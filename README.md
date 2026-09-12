@@ -1,4 +1,4 @@
-# Deposit Refill Every 10 Sols
+# Deposit Refill Every Sols
 
 Public mod for **Surviving Mars: Relaunched**.
 
