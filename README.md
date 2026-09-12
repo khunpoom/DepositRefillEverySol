@@ -1,4 +1,4 @@
-# Deposit Refill Every Sols
+# Deposit Refill Every Sol
 
 Public mod for **Surviving Mars: Relaunched**.
 
