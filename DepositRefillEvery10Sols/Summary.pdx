@@ -1,0 +1,5 @@
+name="Deposit Refill Every 10 Sols"
+version="5"
+tags="Gameplay"
+short_description="Restores resource deposits to full every Sol."
+description="Each new Sol, resource deposits below their max amount are filled back up (Metals, Rare Metals, Water, Concrete). Source: https://github.com/khunpoom/DepositRefillEvery10Sols  MIT license. Lua by Claude Opus."
