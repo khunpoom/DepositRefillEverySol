@@ -8,11 +8,11 @@ Public mod for **Surviving Mars: Relaunched**.
 
 Each new Sol, this mod restores resource deposits that still have a max amount (Metals, Rare Metals, Water, Concrete, and other deposit labels the game tracks). Deposits already at max are left alone.
 
-The folder / Workshop title says "10 Sols". The shipped script runs on `OnMsg.NewDay`, so it refills **every Sol**.
+The folder / says "10 Sols". The shipped script runs on `OnMsg.NewDay`, so it refills **every Sol**.
 
 ## Credit
 
-Lua was written by **Claude Opus** for Poom / [khunpoom](https://github.com/khunpoom) / xiperxp.
+Lua was written by **Claude Opus** for [khunpoom](https://github.com/khunpoom) .
 
 MIT licensed. Fork it, edit it, republish it.
 
